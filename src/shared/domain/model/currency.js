@@ -1,4 +1,4 @@
-import {ValidationError, validationError} from '../errors.js';
+import {ValidationError} from './errors.js';
 
 /**
  * Value Object representing a currency with a specific code.
